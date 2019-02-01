@@ -1968,6 +1968,7 @@ nav a:hover {
 
 .banner-area {
   background: url(../img/banner-bg.jpg) no-repeat center center/cover;
+  height: 600px
 }
 
 .banner-area .overlay-bg {
